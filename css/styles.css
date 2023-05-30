@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-position: center;
+    background-repeat: repeat;
+    background-size:auto;
+    background-color: #242c3c;
+  }
+
+  /* Cabeçalho (Texto  */
+header {
+    text-align: center;       
+}
+#header {
+    color: white;
+    background-color: #880a05;
+    padding: 1px;
+        
+}
+
+/* Título do blog. Coloquei uma fonte do Google Fonts */
+h1.titulo-principal {
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    letter-spacing: .1rem;
+}
+
+/* Titulo dos Destaques */
+h2.destaques {
+    display: block;
+    font-weight: bold;
+    color: #880a05;
+    text-align: center;
+}
+
+/* Títulos do corpo das postagens */
+h3 {
+    margin-bottom:01px;
+    display: inline-block;
+    background-color: #880a05;
+}
+
+/* Títulos dos links superiores */
+h5 {
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+
+
+/* Navegação Lateral (Destaques) */
+.table {display: table;}
+.cell {
+    display: table-cell;
+    padding: 0px 20px 20px;  
+}
+nav.cell {
+    width: 100px;
+    text-align: center;}
+.cell > :nth-child(1) {margin-top: 0;}
+nav {background-color: white;}
+nav > * {margin: 2em 0;}
+
+
+
+/* Corpo das Postagens */
+div.postagens {
+   background-color: #1b2436a5;
+   margin-left: 100px;    
+}
+section {
+    width: 1000px;
+    height: 500px;
+    text-align: justify;
+   
+}
+
+
+
+/* IMAGENS DOS DESTAQUES */
+img.images-destaques {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    border: #242c3c;
+    border-style:outset;
+}
+/* IMAGENS DOS ARTISTAS */
+img.artistas {
+    width: 170px;
+    height: 115px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+/* IMAGENS DOS ARTIGOS */
+img.artigos {
+    width: 200px;
+    height: 75px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+/* IMAGENS DAS REDES SOCIAIS */
+img.social-media-icon {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+/* LINKS */
+a:link {color: red;}
+
+a:visited{color: red;}  /* Quero que os links não fiquem marcados como visitados */
+
+a {text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+p.rodape{
+    text-align: center;
+    -webkit-text-stroke-width: -3px;
+}
+
+a.voltar-topo {
+    margin-bottom: 20px!important;  
+    display:inline-block;  
+    text-align: center;
+ 
+    
+}
+a.voltar-topo:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgba(255, 255, 255, 0.392), 0 0 5px;
+}
