@@ -14,7 +14,7 @@ Escolha um entre os tópicos a seguir: Finanças, Cultura, Esporte, Gastronomia,
 
 * O site deve possuir espaçamento, conteúdo, estética e proporcionalidade de elementos adequados ao seu tema.
 
-* O site deve conter no mínimo cinco páginas e cinco respectivos elementos de navegação (<nav>): Home, nome_conteudo_1, nome_conteudo_2 e nome_conteudo_3 e Contatos. Os elementos de navegação devem ser mantidos em todas as páginas.
+* O site deve conter no mínimo cinco páginas e cinco respectivos elementos de navegação (nav): Home, nome_conteudo_1, nome_conteudo_2 e nome_conteudo_3 e Contatos. Os elementos de navegação devem ser mantidos em todas as páginas.
 
 * Na página Home, deve-se incluir um texto/resumo explicativo da funcionalidade do seu blog, bem como explicitar os conteúdos de destaque. 
 
