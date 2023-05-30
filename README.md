@@ -7,9 +7,6 @@ Trabalho proposto:
 
 "ATIVIDADE ONLINE PONTUADA
 
-Prezado(a) aluno(a),
-Essa é uma atividade online pontuada do tipo "tarefa" e vale 2,0 pontos. O prazo limite para envio é de 16/05/2023 até 02/06/2023.
-
 Escolha um dos tópicos abaixo e desenvolva um blog. O blog deve ser composto de no mínimo a página Home e três páginas complementares. Adote todas as estruturas básicas de HTML: head, body, header, main e footer para definir o escopo e conteúdo global do seu site.
 
 Escolha um entre os tópicos a seguir:
